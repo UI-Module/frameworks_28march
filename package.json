@@ -10,7 +10,6 @@
     "start": "run-p serve watch",
     "publish": "gh-pages -d dist"
 
-    
   },
   "keywords": [],
   "author": "",
